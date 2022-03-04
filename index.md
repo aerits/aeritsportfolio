@@ -1,4 +1,4 @@
-## Welcome to dicedportfolio (Steven Mai)
+## Welcome to aeritsportfolio (Steven Mai)
 
 You can use the [editor on GitHub](https://github.com/dicedmangoez/dicedportfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
