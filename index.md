@@ -1,4 +1,4 @@
-# welcome to aerits' programming portfolio
+## welcome to aerits' programming portfolio
 computer programming 1: focused on processing and c++
 
 ## processing projects in no particular order
