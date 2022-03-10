@@ -3,3 +3,8 @@ body {
   background-color: black;
   font-family: "Lucida Console", "Courier New", monospace;
 }
+
+img {
+  width: 200px,
+  height: auto
+}
