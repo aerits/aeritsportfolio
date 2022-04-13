@@ -1,0 +1,21 @@
+body {
+  color: beige;
+  background-color: #111;
+  font-family: "Arial", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: aquamarine;
+}
+
+h2 {
+  text-align: center;
+  color: lavender;
+  border-bottom: dashed #ddd 1px;
+}
+
+img {
+  width: 500px;
+  height: auto;
+}
