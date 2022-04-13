@@ -1,0 +1,30 @@
+body {
+  color: beige;
+  background-color: #111;
+  font-family: "Arial", sans-serif;
+  margin: 0px 6.25em 0px 6.25em;
+}
+
+h1 {
+  text-align: center;
+  color: aquamarine;
+  font-size: 2.5em
+}
+
+h2 {
+  text-align: center;
+  color: lavender;
+  border-bottom: dashed #ddd 0.05em;
+  font-size: 1.4em
+}
+
+p {
+  vertical-align: middle;
+  max-width: 850px;
+  font-size: 1em;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
