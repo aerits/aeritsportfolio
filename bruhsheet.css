@@ -15,6 +15,12 @@ h2 {
   border-bottom: dashed #ddd 1px;
 }
 
+p {
+  vertical-align: middle;
+  max-width: 1em;
+  max-height: 1em;
+}
+
 img {
   width: 500px;
   height: auto;
