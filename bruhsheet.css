@@ -45,6 +45,7 @@ img {
   grid-column-end: 1;
   grid-row-start: 1;
   grid-row-end: 1;
+  max-width: 35em;
 }
 
 .item2 {
@@ -52,4 +53,5 @@ img {
   grid-column-end: 2;
   grid-row-start: 1;
   grid-row-end: 1;
+  max-width: 35em;
 }
